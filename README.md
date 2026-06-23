@@ -54,6 +54,14 @@ https://github.com/wuhuili2014/sellable-experience-skill/tree/main/sellable-expe
 
 如果 WorkBuddy 支持从 GitHub 安装 Skill，也可以直接使用本仓库链接。
 
+## 无需安装：复制即用提示词版
+
+如果你不用 Codex、Claude Code 或其他支持 Skills 的 Agent，可以直接打开：
+
+[复制即用提示词版.md](复制即用提示词版.md)
+
+把里面的完整提示词复制到 ChatGPT、Claude、豆包、Kimi、通义等 AI 对话框里使用。
+
 ## 启动方式
 
 安装后可以这样说：
